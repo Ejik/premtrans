@@ -21,11 +21,11 @@ authors = [
 
 # If the theme has a single author
 [author]
-  name = 'Your name'
-  homepage = 'Your website'
+  name = 'sergeyvk'
+  homepage = 'https://alkorcloud.ru'
 
 # If porting an existing theme
 [original]
-  author = 'Name of original author'
-  homepage = 'Website of original author'
+  author = 'sergeyvk'
+  homepage = 'https://alkorcloud.ru'
   repo = 'https://github.com/owner/repo'
