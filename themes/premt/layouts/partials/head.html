@@ -6,10 +6,8 @@
     <meta charset="utf-8">
     <meta name="author" content="{{ site.Params.author }}">
     
-
     <link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL }}/index.xml" title="{{ .Site.Title }}">
 
-    {{ $cssFile := "css/main.css" }}    
-    <link rel="stylesheet" href="{{ $cssFile }}" media="screen">
+    {{ partialCached "css.html" . }}
 
 </head>

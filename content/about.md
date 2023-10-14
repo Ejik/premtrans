@@ -1,7 +1,7 @@
 ---
 title: "О компании" 
 description: "О компании"
-menu: "main"
+menu: "mainmenu"
 draft: false
 weight: 10
 

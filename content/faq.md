@@ -1,7 +1,7 @@
 +++
 title = 'Вопросы'
 draft = false
-menu = 'main'
+menu = 'mainmenu'
 weight = 70
 +++
 

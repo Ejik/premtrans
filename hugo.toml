@@ -3,7 +3,8 @@ languageCode = 'ru-RU'
 title = 'ООО "Премтранс"'
 theme = 'premt' 
 Copyright = '© ООО "Премтранс" 2005-{year}'
-sectionPagesMenu = 'main'
+sectionPagesMenu = 'mainmenu'
 
 [params]
     email = 'p.popugaev@premtrans.ru'
+    author = 'sergeyvk'
