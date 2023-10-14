@@ -1,0 +1,4 @@
+baseURL = 'https://premtrans.ru/'
+languageCode = 'ru-RU'
+title = 'ООО "Премтранс"'
+theme = 'premt' 
