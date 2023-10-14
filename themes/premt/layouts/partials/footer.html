@@ -1,0 +1,22 @@
+<div class="footer_top">
+    <div class="footer_panel">
+        <div class="footer_content">
+            <div class="footer_head">Контактная информация</div>    
+            <p class="address">Москва, 1-й Дорожный проезд дом 4 стр. 1 <br> (м. Пражская)</p>
+            <p class="footer_mail"><a href="mailto:{{  $.Site.Params.email }}">{{  $.Site.Params.email }}</a></p>
+        </div>    
+        <div class="footer_content">
+            <div class="footer_head">Телефоны</div>
+            <div class="footer_phones"><p>8 (495) 389-18-55</p></div><br>        
+        </div>
+        <div class="footer_content">
+            <div class="footer_head">График работы</div>
+            <div class="footer_time"><p>Ежедневно с 9:00 до 19:00</p></div><br>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <span class="copyright">
+		{{ replace .Site.Copyright "{year}" now.Year }}
+	</span>
+</div>

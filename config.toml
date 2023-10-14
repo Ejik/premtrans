@@ -2,3 +2,7 @@ baseURL = 'https://premtrans.ru/'
 languageCode = 'ru-RU'
 title = 'ООО "Премтранс"'
 theme = 'premt' 
+Copyright = '© ООО "Премтранс" 2005-{year}'
+
+[params]
+    email = 'mega-pavel@mail.ru'
